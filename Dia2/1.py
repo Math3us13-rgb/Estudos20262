@@ -1,0 +1,5 @@
+N = input ('Olá, por favor digite seu nome: ')
+I = int (input ('Agora digite sua idade: '))
+S = float (input ('Por último, seu salário: '))
+soma = (S * 2) + (I * 3)
+print('O valor de seu salário final será de aproximadamente:', soma)

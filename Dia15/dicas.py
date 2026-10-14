@@ -1,0 +1,1 @@
+#count é uma função que
